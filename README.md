@@ -1,8 +1,8 @@
-# Hi, I'm crxigzah 👋
+<h2><strong>Hi, I'm crxigzah 👋</strong></h2>
 
 I am an IT Engineer, ITIL aligned and certified in Azure and Microsoft technologies.
 
-## Project 5kable
+<h2><strong>Project 5kable</strong></h2>
 
 ### 🌍 [5kable](https://5kable.net)
 
@@ -25,7 +25,7 @@ A geography training platform powered by AI: a Chrome extension paired with a Fl
 
 ***
 
-**Some things I've worked through building this**
+<h2><strong>Some things I've worked through building this</strong></h2>
 
 
 Diagnosed a production incident where a background Discord Gateway listener was silently starved by GIL contention with the web server's own request threads, then moved it to a standalone OS process instead of a thread.
@@ -42,4 +42,4 @@ Added a live multi currency price display that converts a single GBP source of t
 
 ***
 
-## More coming soon.
+<h2><strong>More coming soon.</strong></h2>
