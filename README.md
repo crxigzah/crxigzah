@@ -16,13 +16,13 @@ A geography training platform powered by AI: a Chrome extension paired with a Fl
 
 ***
 
-##Repos
+# #Repos
 
-🌐 [`5kable-site`](https://github.com/crxigzah/5kable-site): the public website (open)
+ [`5kable-site`](https://github.com/crxigzah/5kable-site): the public website (open)
 
-📦 [`5kable-releases`](https://github.com/crxigzah/5kable-releases): packaged extension releases (open)
+ [`5kable-releases`](https://github.com/crxigzah/5kable-releases): packaged extension releases (open)
 
-🔒 Backend and extension source are private (it's a paid product), but I'm happy to walk through the architecture or specific code on request.
+ Backend and extension source are private (it's a paid product), but I'm happy to walk through the architecture or specific code on request.
 
 ***
 
