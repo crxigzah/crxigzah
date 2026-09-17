@@ -14,6 +14,10 @@ A geography training platform powered by AI: a Chrome extension paired with a Fl
 
 **Public site**: training guides per country, a region map, leaderboards, and daily challenges, statically hosted on Cloudflare Pages.
 
+***
+
+##Repos
+
 🌐 [`5kable-site`](https://github.com/crxigzah/5kable-site): the public website (open)
 
 📦 [`5kable-releases`](https://github.com/crxigzah/5kable-releases): packaged extension releases (open)
@@ -23,6 +27,7 @@ A geography training platform powered by AI: a Chrome extension paired with a Fl
 ***
 
 **Some things I've worked through building this**
+
 
 Diagnosed a production incident where a background Discord Gateway listener was silently starved by GIL contention with the web server's own request threads, then moved it to a standalone OS process instead of a thread.
 
@@ -36,6 +41,6 @@ Built a scene library sourced from the community: every player's capture during 
 
 Added a live multi currency price display that converts a single GBP source of truth in the browser, so Stripe only ever has to know one currency.
 
-
+***
 
 ## More coming soon.
