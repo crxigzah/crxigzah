@@ -6,8 +6,9 @@ I am an IT Engineer with 5 years of experience, currently working as a Desktop S
 
 <h2><strong>Project 5kable</strong></h2>
 
-website = 5kable.net
-support email - support@5kable.net
+Website = 5kable.net
+
+Support email - support@5kable.net
 
 ### [5kable](https://5kable.net)
 
