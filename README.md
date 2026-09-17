@@ -6,7 +6,7 @@ I am an IT Engineer, ITIL aligned and certified in Azure and Microsoft technolog
 
 ### 🌍 [5kable](https://5kable.net)
 
-A geography training platform powered by AI, for Geography style games: a Chrome extension paired with a Flask/Postgres backend, a Pro tier billed through Stripe, and a community integrated with Discord.
+A geography training platform powered by AI: a Chrome extension paired with a Flask/Postgres backend, a Pro tier billed through Stripe, and a community integrated with Discord.
 
 **Chrome extension**: reads live round data, calls a backend AI pipeline (Anthropic Claude API) for scene analysis and teaching after each round, and renders Street View reference panoramas from a scene library sourced from the community.
 
@@ -20,7 +20,7 @@ A geography training platform powered by AI, for Geography style games: a Chrome
 
 🔒 Backend and extension source are private (it's a paid product), but I'm happy to walk through the architecture or specific code on request.
 
-Some things I've worked through building this:
+###**Some things I've worked through building this**###
 
 Diagnosed a production incident where a background Discord Gateway listener was silently starved by GIL contention with the web server's own request threads, then moved it to a standalone OS process instead of a thread.
 
@@ -34,6 +34,6 @@ Built a scene library sourced from the community: every player's capture during 
 
 Added a live multi currency price display that converts a single GBP source of truth in the browser, so Stripe only ever has to know one currency.
 
-### 🚧 Next project
+### 🚧 Next project ###
 
 More coming soon.
