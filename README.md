@@ -15,7 +15,7 @@ A geography training platform powered by AI: a Chrome extension paired with a Fl
 **Public site**: training guides per country, a region map, leaderboards, and daily challenges, statically hosted on Cloudflare Pages.
 
 
-<h2>**Repos**</h2>
+<h2><strong>Repos</strong></h2>
 
  [`5kable-site`](https://github.com/crxigzah/5kable-site): the public website (open)
 
