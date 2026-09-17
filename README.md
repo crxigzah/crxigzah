@@ -25,7 +25,7 @@ I am an IT Engineer with 5 years of experience, currently working as a Desktop S
 
 💼 Backend and extension source are private (it's a paid product), but I'm happy to walk through the architecture or specific code on request.
 
-
+<br><br>
 
 <h2><strong>Some things I've worked through building this</strong></h2>
 
@@ -42,6 +42,6 @@ I am an IT Engineer with 5 years of experience, currently working as a Desktop S
 
 ⚙️ Added a live multi currency price display that converts a single GBP source of truth in the browser, so Stripe only ever has to know one currency.
 
-
+<br><br>
 
 <h2><strong>More coming soon.</strong></h2>
