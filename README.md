@@ -1,6 +1,6 @@
 <h2><strong>Hi, I'm crxigzah 👋</strong></h2>
 
-I am an IT Engineer, ITIL aligned and certified in Azure and Microsoft technologies.
+I am an IT Engineer with 5 years of experience, currently working as a Desktop Support Engineer for an MSP. I hold ITIL v5, Azure and Microsoft certifications. Outside of the day job, I build websites, scripts, and software.
 
 <h2><strong>Project 5kable</strong></h2>
 
@@ -40,6 +40,6 @@ Built a scene library sourced from the community: every player's capture during 
 
 Added a live multi currency price display that converts a single GBP source of truth in the browser, so Stripe only ever has to know one currency.
 
-***
+
 
 <h2><strong>More coming soon.</strong></h2>
