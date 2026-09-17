@@ -20,7 +20,9 @@ A geography training platform powered by AI: a Chrome extension paired with a Fl
 
 🔒 Backend and extension source are private (it's a paid product), but I'm happy to walk through the architecture or specific code on request.
 
-###**Some things I've worked through building this**###
+
+
+**Some things I've worked through building this**
 
 Diagnosed a production incident where a background Discord Gateway listener was silently starved by GIL contention with the web server's own request threads, then moved it to a standalone OS process instead of a thread.
 
@@ -34,6 +36,6 @@ Built a scene library sourced from the community: every player's capture during 
 
 Added a live multi currency price display that converts a single GBP source of truth in the browser, so Stripe only ever has to know one currency.
 
-### 🚧 Next project ###
 
-More coming soon.
+
+## More coming soon.
