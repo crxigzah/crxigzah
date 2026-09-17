@@ -23,7 +23,7 @@ A geography training platform powered by AI: a Chrome extension paired with a Fl
 
  Backend and extension source are private (it's a paid product), but I'm happy to walk through the architecture or specific code on request.
 
-***
+
 
 <h2><strong>Some things I've worked through building this</strong></h2>
 
